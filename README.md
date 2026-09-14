@@ -12,7 +12,7 @@ npm run build
 npm start
 ```
 
-Coverage reports are written to `coverage/`, including `coverage/lcov.info` for upload to CI or quality tools.
+Coverage reports are written to `coverage/`, including `coverage/lcov.info` and `coverage/cobertura-coverage.xml` for upload to CI or quality tools.
 
 ## Intentional findings
 
