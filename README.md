@@ -23,5 +23,8 @@ Coverage reports are written to `coverage/`, including `coverage/lcov.info` for 
 - String concatenation that could use clearer formatting
 - Console logging inside business logic
 - Incomplete test coverage for coupon, shipping, oversized-item, and legacy paths
+- Nested conditionals and duplicated destination logic in recommendations
+- Mutation through in-place sorting and weakly typed customer data
+- Incomplete new-code coverage for recommendation and item-ranking paths
 
 These issues are deliberate. Do not use this project as a production implementation example.
